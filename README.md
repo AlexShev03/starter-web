@@ -20,3 +20,7 @@ can be on any web server or even loval
 file system
 
 ## How to contribute
+
+### Copyright
+
+2024 Git.Training.
