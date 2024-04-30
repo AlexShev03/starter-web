@@ -10,6 +10,13 @@ of the Git repository and various commands
 
 ## Purpose
 
+As stated above, the main purpose is to provide 
+simple example for git training
+
 ## Deployment
+
+This is a simple web project, deployment
+can be on any web server or even loval
+file system
 
 ## How to contribute
