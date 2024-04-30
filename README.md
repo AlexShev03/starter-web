@@ -21,6 +21,8 @@ file system
 
 ## How to contribute
 
+Please fork this rep and then issue Pull Requests for review.
+
 ### Copyright
 
 2024 Git.Training.
